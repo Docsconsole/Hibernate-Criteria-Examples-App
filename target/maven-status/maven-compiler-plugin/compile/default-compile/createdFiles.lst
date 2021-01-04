@@ -1,0 +1,4 @@
+com\docsconsole\tutorials\hibernate5\utils\HibernateUtils.class
+com\docsconsole\tutorials\hibernate5\client\MainClient.class
+com\docsconsole\tutorials\hibernate5\entity\CricketTeam.class
+com\docsconsole\tutorials\hibernate5\entity\Cricketer.class
